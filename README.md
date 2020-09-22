@@ -3,10 +3,13 @@
 My name is _Emanuele Giacomini_, I'm a master student of Artificial Intelligence and RObotics at La Sapienza, Rome. If you have any tips on how to expand this page, let me know [here](https://github.com/EmanueleGiacomini/EmanueleGiacomini/issues)
 
 
-Praise the EggDog 
-
 ![](https://thumbs.gfycat.com/LegalResponsibleCaribou-max-1mb.gif)
 
+Praise the EggDog 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EmanueleGiacomini)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 <center>
   <table>
   <tr>
@@ -15,6 +18,7 @@ Praise the EggDog
   </tr>   
 </table>
 </center>
+-->
 
 <!--
 **EmanueleGiacomini/EmanueleGiacomini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
