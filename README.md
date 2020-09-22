@@ -7,7 +7,7 @@ My name is _Emanuele Giacomini_, I'm a master student of Artificial Intelligence
 
 Praise the EggDog 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EmanueleGiacomini)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EmanueleGiacomini&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 <center>
