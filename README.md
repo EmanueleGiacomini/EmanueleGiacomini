@@ -7,18 +7,19 @@ My name is _Emanuele Giacomini_, I'm a master student of Artificial Intelligence
 
 Praise the EggDog 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EmanueleGiacomini&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
+[![EmanueleGiacomini's github stats](https://github-readme-stats.vercel.app/api?username=EmanueleGiacomini&count_private=true&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![EmanueleGiacomini's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EmanueleGiacomini)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <center>
   <table>
   <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=EmanueleGiacomini&show_icons=true&hide_border=true&count_private=true&layout=compact" /></td>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleGiacomini&hide=html&layout=compact" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=EmanueleGiacomini&count_private=true&show_icons=true&theme=solarized-dark" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=EmanueleGiacomini" /></td>
   </tr>   
 </table>
 </center>
--->
 
 <!--
 **EmanueleGiacomini/EmanueleGiacomini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
