@@ -11,7 +11,7 @@ Praise the EggDog
   <table>
   <tr>
       <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=EmanueleGiacomini&count_private=true&show_icons=true" /></td>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleGiacomini&layout=compact" /></td>
+      <td><img width="550px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleGiacomini&layout=compact" /></td>
   </tr>   
 </table>
 </center>
