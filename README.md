@@ -10,8 +10,8 @@ Praise the EggDog
 <center>
   <table>
   <tr>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=EmanueleGiacomini&count_private=true&show_icons=true&theme=solarized-dark" /></td>
-      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleGiacomini&layout=compact&theme=solarized-dark" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=EmanueleGiacomini&count_private=true&show_icons=true" /></td>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanueleGiacomini&layout=compact" /></td>
   </tr>   
 </table>
 </center>
