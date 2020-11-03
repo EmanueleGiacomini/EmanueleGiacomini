@@ -3,9 +3,13 @@
 My name is _Emanuele Giacomini_, I'm a master student of Artificial Intelligence and RObotics at La Sapienza, Rome. If you have any tips on how to expand this page, let me know [here](https://github.com/EmanueleGiacomini/EmanueleGiacomini/issues)
 
 
-![](https://thumbs.gfycat.com/LegalResponsibleCaribou-max-1mb.gif)
-
+<!-- ![](https://thumbs.gfycat.com/LegalResponsibleCaribou-max-1mb.gif) 
 Praise the EggDog 
+
+![](https://media.giphy.com/media/YpYDj81eXbdmGFUEOJ/giphy.gif)
+Watchout for the Saxsquatch!
+
+
 
 <center>
   <table>
